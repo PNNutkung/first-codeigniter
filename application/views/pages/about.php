@@ -1,1 +1,1 @@
-<?php echo "This is about page!"; ?>
+<?php echo '<h2>This is about page!</h2>'; ?>
